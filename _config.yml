@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 #cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://img.notionusercontent.com/s3/prod-files-secure%2Ff34a93ae-9bcd-49c0-a30e-c35c5d31780a%2F90aea5f0-cb65-4ab9-8d48-8f38b34f4619%2FChatGPT_Image_2025%EB%85%84_5%EC%9B%94_5%EC%9D%BC_%EC%98%A4%ED%9B%84_12_51_21.png/size/w=2000?exp=1746418008&sig=54qR6TEkXEToqBfsYE0UiyiJ0YYSYmLUskKz-gLQuf0&id=1ea544a0-115c-80a9-b12a-d264ccf74a4e&table=block&userId=2c199264-68a7-4a45-b6f3-e490d0fd1591"
+avatar: assets/img/profile.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
